@@ -1,3 +1,5 @@
+// new comment
+
 #ifndef SOKOL_APP_INCLUDED
 /*
     sokol_app.h -- cross-platform application wrapper
